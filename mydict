@@ -1,0 +1,10 @@
+mydict = {
+    101: "sanika",
+    102: "tanishka",
+    103: "vedika",
+    104: "s",
+    101: "a",
+    104: "sanika"
+}
+
+print(mydict)
