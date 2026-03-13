@@ -1,0 +1,8 @@
+mydict = {
+    101: "sanika",
+    "professional": "developer",
+    "empid": 1001
+}
+
+mydict.pop(101)
+print(mydict)
